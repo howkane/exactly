@@ -4,7 +4,7 @@
   <img alt=" logo" src="/misc/exactly-logo.png" width="35%" height="35%">
 </picture>
 </div>
-
+<br>
 <b>Exactly!</b> is a Chrome extension that automatically adds quotes to words and phrases as you type, most useful in exact-match web search. Maybe one you didn't know you needed, if you still use search engines that is.<br><br>Exactly! currently has two modes: *quote every word* and *quote every phrase*.
 
 ### Quote every word
